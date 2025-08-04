@@ -2,7 +2,7 @@
 
 // GitHub Pages deployment configuration
 const isGithubPages = process.env.GITHUB_ACTIONS === 'true'
-const repoName = 'schnell-wissen-de' // Ersetzen Sie mit Ihrem Repository-Namen
+const repoName = 'artikel-webseite' // Ersetzen Sie mit Ihrem Repository-Namen
 
 const nextConfig = {
   // Enable static export for GitHub Pages
